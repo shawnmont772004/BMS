@@ -4,15 +4,18 @@ The "Bank Management System" is a Java application I created using Java and MySQ
 
 User Registration: The application allows users to provide their personal information and select the type of account they wish to create, such as savings or checking.
 
-![LOGIN](https://github.com/shawnmont772004/BMS/assets/120467667/ce244575-c3b5-4b5a-8e80-d0b34742e5a1)
+  ![LOGIN](https://github.com/shawnmont772004/BMS/assets/120467667/ce244575-c3b5-4b5a-8e80-d0b34742e5a1)
 
 
 Card Generation: Upon successful registration, the system generates a unique ATM card number and ATM PIN for the user. These credentials will be required for account access.
 
-![Screenshot 2023-10-24 153733](https://github.com/shawnmont772004/BMS/assets/120467667/2a5de406-df85-4b2a-9c1b-1bf53091cbfe)
+  ![Screenshot 2023-10-24 153733](https://github.com/shawnmont772004/BMS/assets/120467667/2a5de406-df85-4b2a-9c1b-1bf53091cbfe)
 
 
 Main Page: After registration, users are redirected to the main page. This page serves as the central hub for their banking activities.
+
+  ![MAIN](https://github.com/shawnmont772004/BMS/assets/120467667/748dcf2d-6f74-4d0f-a198-15b85c9b295d)
+
 
 Deposit: Users can deposit funds into their account by entering the desired amount. The application updates the account balance accordingly.
 
