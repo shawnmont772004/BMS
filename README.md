@@ -1,7 +1,13 @@
 BANK MANAGEMENT SYSTEM:
 
   This is a replica of ATM machine where it handles all the operations related to OLTP(online transaction processing).
-The "Bank Management System" is a Java application I created using Java and MySQL as the database, developed in IntelliJ for the coding part and SQL Workbench for database management. This application is designed to provide a comprehensive banking experience for users. Here's a breakdown of its key features:
+The "Bank Management System" is a Java application I created using Java and MySQL as the database, developed in IntelliJ for the coding part and SQL Workbench for database management. This application is designed to provide a comprehensive banking experience for users.
+
+Languages:Java, MySQL
+
+Software used: Intellij IDEA, MySQL workbench
+
+Here's a breakdown of its key features:
 
 User Registration: The application allows users to provide their personal information and select the type of account they wish to create, such as savings or checking.
 
