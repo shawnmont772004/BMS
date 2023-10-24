@@ -19,6 +19,9 @@ Main Page: After registration, users are redirected to the main page. This page 
 
 Deposit: Users can deposit funds into their account by entering the desired amount. The application updates the account balance accordingly.
 
+    ![Screenshot 2023-10-24 154206](https://github.com/shawnmont772004/BMS/assets/120467667/6dde0a2a-e3e8-4cbc-8181-c8664443be90)
+
+
 Withdrawal: Users can withdraw money from their account, provided they have sufficient funds. The system deducts the withdrawn amount from the account balance.
 
 Transaction History: The application maintains a transaction history, enabling users to view their past transactions, including deposits and withdrawals.
