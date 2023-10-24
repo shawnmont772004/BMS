@@ -19,14 +19,26 @@ Main Page: After registration, users are redirected to the main page. This page 
 
 Deposit: Users can deposit funds into their account by entering the desired amount. The application updates the account balance accordingly.
 
-    ![Screenshot 2023-10-24 154206](https://github.com/shawnmont772004/BMS/assets/120467667/6dde0a2a-e3e8-4cbc-8181-c8664443be90)
+  ![Screenshot 2023-10-24 154206](https://github.com/shawnmont772004/BMS/assets/120467667/6dde0a2a-e3e8-4cbc-8181-c8664443be90)
 
 
 Withdrawal: Users can withdraw money from their account, provided they have sufficient funds. The system deducts the withdrawn amount from the account balance.
 
+  ![Screenshot 2023-10-24 154338](https://github.com/shawnmont772004/BMS/assets/120467667/714d5334-6867-4c46-af7e-352fc2934cda)
+
+Balance: Users can check thier balance i.e the total amount that they have in their account.
+
+  ![BALANCE](https://github.com/shawnmont772004/BMS/assets/120467667/1a27b2e2-1381-424d-b816-988c786dda28)
+
 Transaction History: The application maintains a transaction history, enabling users to view their past transactions, including deposits and withdrawals.
 
+  ![STATEMENT](https://github.com/shawnmont772004/BMS/assets/120467667/eb58a951-7b53-49e7-a03f-cc341aad28a9)
+
+
 Fast Cash: Users can quickly access predefined withdrawal amounts (e.g., $20, $50, $100) with a single click for added convenience.
+
+  ![FAST_CASH](https://github.com/shawnmont772004/BMS/assets/120467667/732c8b0b-ce04-418f-bdc6-e5c1595c2f3f)
+
 
 Exit: Users can safely log out and exit the application when they have completed their banking activities.
 
